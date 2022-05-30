@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ywVT6ILuyFyhqdNr+YcH2wOCGVMoRk2cQNMUu0kles=",
+  "Source": "jsontoken",
+  "BasePath": "_content/jsontoken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
